@@ -9,3 +9,4 @@ pip install bs4
 ```
 python google_scholar.py --search "attention is all you need" --num "10"
 ```
+搜索结果将保存到csv中，可下载的pdf会下载至pdfs文件夹.
